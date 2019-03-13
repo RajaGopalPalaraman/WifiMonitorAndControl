@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WifiMonitorAndControl</string>
+    <string name="enter_ip">IP</string>
+    <string name="enter_port">Port Number</string>
+    <string name="connect">Connect</string>
+    <string name="f1">Voltage</string>
+    <string name="f2">Current</string>
+    <string name="f3">Temperature</string>
+    <string name="f4">Level</string>
+    <string name="f5">Vibration</string>
+    <string name="error">Error Occurred!!</string>
+    <string name="connected">Connected!!</string>
+    <string name="terminated">Connection Terminated!!</string>
+    <string name="pump_on">Pump On</string>
+    <string name="pump_off">Pump Off</string>
+    <string name="load_on">Load On</string>
+    <string name="load_off">Load Off</string>
+    <string name="fan_on">Fan On</string>
+    <string name="fan_off">Fan Off</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+</resources>
